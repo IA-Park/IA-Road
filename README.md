@@ -144,43 +144,45 @@ A repository to define the road to learn all about AI
   - 3.10.2. El mejor modelo
   - 3.10.3. Herramientas útiles
 
-Módulo 4. Minería de Datos. Selección, preprocesamiento y transformación
-4.1. La inferencia estadística
-4.1.1. Estadística descriptiva vs. Inferencia estadística
-4.1.2. Procedimientos paramétricos
-4.1.3. Procedimientos no paramétricos
-4.2. Análisis exploratorio
-4.2.1. Análisis descriptivo
-4.2.2. Visualización
-4.2.3. Preparación de datos
-4.3. Preparación de datos
-4.3.1. Integración y limpieza de datos
-4.3.2. Normalización de datos
-4.3.3. Transformando atributos
-4.4. Los valores perdidos
-4.4.1. Tratamiento de valores perdidos
-4.4.2. Métodos de imputación de máxima verosimilitud
-4.4.3. Imputación de valores perdidos usando aprendizaje automático
-4.5. El ruido en los datos
-4.5.1. Clases de ruido y atributos
-4.5.2. Filtrado de ruido
-4.5.3. El efecto del ruido
-4.6. La maldición de la dimensionalidad
-4.6.1. Oversampling
-4.6.2. Undersampling
-4.6.3. Reducción de datos multidimensionales
-4.7. De atributos continuos a discretos
-4.7.1. Datos continuos versus discretos
-4.7.2. Proceso de discretización
-4.8. Los datos
-4.8.1. Selección de datos
-4.8.2. Perspectivas y criterios de selección
-4.8.3. Métodos de selección
-4.9. Selección de instancias
-4.9.1. Métodos para la selección de instancias
-4.9.2. Selección de prototipos
-4.9.3. Métodos avanzados para la selección de instancias
-4.10. Preprocesamiento de datos en entornos Big Data
+**Módulo 4. Minería de Datos. Selección, preprocesamiento y transformación**
+
+- 4.1. La inferencia estadística
+  - 4.1.1. Estadística descriptiva vs. Inferencia estadística
+  - 4.1.2. Procedimientos paramétricos
+  - 4.1.3. Procedimientos no paramétricos
+- 4.2. Análisis exploratorio
+  - 4.2.1. Análisis descriptivo
+  - 4.2.2. Visualización
+  - 4.2.3. Preparación de datos
+- 4.3. Preparación de datos
+  - 4.3.1. Integración y limpieza de datos
+  - 4.3.2. Normalización de datos
+  - 4.3.3. Transformando atributos
+- 4.4. Los valores perdidos
+  - 4.4.1. Tratamiento de valores perdidos
+  - 4.4.2. Métodos de imputación de máxima verosimilitud
+  - 4.4.3. Imputación de valores perdidos usando aprendizaje automático
+- 4.5. El ruido en los datos
+  - 4.5.1. Clases de ruido y atributos
+  - 4.5.2. Filtrado de ruido
+  - 4.5.3. El efecto del ruido
+- 4.6. La maldición de la dimensionalidad
+  - 4.6.1. Oversampling
+  - 4.6.2. Undersampling
+  - 4.6.3. Reducción de datos multidimensionales
+- 4.7. De atributos continuos a discretos
+  - 4.7.1. Datos continuos versus discretos
+  - 4.7.2. Proceso de discretización
+- 4.8. Los datos
+  - 4.8.1. Selección de datos
+  - 4.8.2. Perspectivas y criterios de selección
+  - 4.8.3. Métodos de selección
+- 4.9. Selección de instancias
+  - 4.9.1. Métodos para la selección de instancias
+  - 4.9.2. Selección de prototipos
+  - 4.9.3. Métodos avanzados para la selección de instancias
+- 4.10. Preprocesamiento de datos en entornos Big Data
+
 Módulo 5. Algoritmia y complejidad en Inteligencia Artificial
 5.1. Introducción a las estrategias de diseño de algoritmos
 5.1.1. Recursividad
