@@ -183,61 +183,63 @@ A repository to define the road to learn all about AI
   - 4.9.3. Métodos avanzados para la selección de instancias
 - 4.10. Preprocesamiento de datos en entornos Big Data
 
-Módulo 5. Algoritmia y complejidad en Inteligencia Artificial
-5.1. Introducción a las estrategias de diseño de algoritmos
-5.1.1. Recursividad
-5.1.2. Divide y conquista
-5.1.3. Otras estrategias
-5.2. Eficiencia y análisis de los algoritmos
-5.2.1. Medidas de eficiencia
-5.2.2. Medir el tamaño de la entrada
-5.2.3. Medir el tiempo de ejecución
-5.2.4. Caso peor, mejor y medio
-5.2.5. Notación asintónica
-5.2.6. Criterios de Análisis matemático de algoritmos no recursivos
-5.2.7. Análisis matemático de algoritmos recursivos
-5.2.8. Análisis empírico de algoritmos
-5.3. Algoritmos de ordenación
-5.3.1. Concepto de ordenación
-5.3.2. Ordenación de la burbuja
-5.3.3. Ordenación por selección
-5.3.4. Ordenación por inserción
-5.3.5. Ordenación por mezcla (Merge_Sort)
-5.3.6. Ordenación rápida (Quick_Sort)
-5.4. Algoritmos con árboles
-5.4.1. Concepto de árbol
-5.4.2. Árboles binarios
-5.4.3. Recorridos de árbol
-5.4.4. Representar expresiones
-5.4.5. Árboles binarios ordenados
-5.4.6. Árboles binarios balanceados
-5.5. Algoritmos con Heaps
-5.5.1. Los Heaps
-5.5.2. El algoritmo Heapsort
-5.5.3. Las colas de prioridad
-5.6. Algoritmos con grafos
-5.6.1. Representación
-5.6.2. Recorrido en anchura
-5.6.3. Recorrido en profundidad
-5.6.4. Ordenación topológica
-5.7. Algoritmos Greedy
-5.7.1. La estrategia Greedy
-5.7.2. Elementos de la estrategia Greedy
-5.7.3. Cambio de monedas
-5.7.4. Problema del viajante
-5.7.5. Problema de la mochila
-5.8. Búsqueda de caminos mínimos
-5.8.1. El problema del camino mínimo
-5.8.2. Arcos negativos y ciclos
-5.8.3. Algoritmo de Dijkstra
-5.9. Algoritmos Greedy sobre grafos
-5.9.1. El árbol de recubrimiento mínimo
-5.9.2. El algoritmo de Prim
-5.9.3. El algoritmo de Kruskal
-5.9.4. Análisis de complejidad
-5.10. Backtracking
-5.10.1. El Backtracking
-5.10.2. Técnicas alternativas
+**Módulo 5. Algoritmia y complejidad en Inteligencia Artificial**
+
+- 5.1. Introducción a las estrategias de diseño de algoritmos
+  - 5.1.1. Recursividad
+  - 5.1.2. Divide y conquista
+  - 5.1.3. Otras estrategias
+- 5.2. Eficiencia y análisis de los algoritmos
+  - 5.2.1. Medidas de eficiencia
+  - 5.2.2. Medir el tamaño de la entrada
+  - 5.2.3. Medir el tiempo de ejecución
+  - 5.2.4. Caso peor, mejor y medio
+  - 5.2.5. Notación asintónica
+  - 5.2.6. Criterios de Análisis matemático de algoritmos no recursivos
+  - 5.2.7. Análisis matemático de algoritmos recursivos
+  - 5.2.8. Análisis empírico de algoritmos
+- 5.3. Algoritmos de ordenación
+  - 5.3.1. Concepto de ordenación
+  - 5.3.2. Ordenación de la burbuja
+  - 5.3.3. Ordenación por selección
+  - 5.3.4. Ordenación por inserción
+  - 5.3.5. Ordenación por mezcla (Merge_Sort)
+  - 5.3.6. Ordenación rápida (Quick_Sort)
+- 5.4. Algoritmos con árboles
+  - 5.4.1. Concepto de árbol
+  - 5.4.2. Árboles binarios
+  - 5.4.3. Recorridos de árbol
+  - 5.4.4. Representar expresiones
+  - 5.4.5. Árboles binarios ordenados
+  - 5.4.6. Árboles binarios balanceados
+- 5.5. Algoritmos con Heaps
+  - 5.5.1. Los Heaps
+  - 5.5.2. El algoritmo Heapsort
+  - 5.5.3. Las colas de prioridad
+- 5.6. Algoritmos con grafos
+  - 5.6.1. Representación
+  - 5.6.2. Recorrido en anchura
+  - 5.6.3. Recorrido en profundidad
+  - 5.6.4. Ordenación topológica
+- 5.7. Algoritmos Greedy
+  - 5.7.1. La estrategia Greedy
+  - 5.7.2. Elementos de la estrategia Greedy
+  - 5.7.3. Cambio de monedas
+  - 5.7.4. Problema del viajante
+  - 5.7.5. Problema de la mochila
+- 5.8. Búsqueda de caminos mínimos
+  - 5.8.1. El problema del camino mínimo
+  - 5.8.2. Arcos negativos y ciclos
+  - 5.8.3. Algoritmo de Dijkstra
+- 5.9. Algoritmos Greedy sobre grafos
+  - 5.9.1. El árbol de recubrimiento mínimo
+  - 5.9.2. El algoritmo de Prim
+  - 5.9.3. El algoritmo de Kruskal
+  - 5.9.4. Análisis de complejidad
+- 5.10. Backtracking
+  - 5.10.1. El Backtracking
+  - 5.10.2. Técnicas alternativas
+
 Módulo 6. Sistemas inteligentes
 6.1. Teoría de agentes
 6.1.1. Historia del concepto
