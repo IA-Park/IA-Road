@@ -1,49 +1,50 @@
 # IA-Road
-A repository to define the road to learn all about AI 
+
+A repository to define the road to learn all about AI
 
 **Módulo 1. Fundamentos de la Inteligencia Artificial**
 
-- 1.1. Historia de la Inteligencia artificial 
+- 1.1. Historia de la Inteligencia artificial
   - 1.1.1. ¿Cuándo se empieza a hablar de inteligencia artificial?
-  - 1.1.2. Referentes en el cine 
-  - 1.1.3. Importancia de la inteligencia artificial 
-  - 1.1.4. Tecnologías que habilitan y dan soporte a la inteligencia artificial 
-- 1.2. La Inteligencia Artificial en juegos 
-  - 1.2.1. Teoría de Juegos 
-  - 1.2.2. Minimax y poda Alfa-Beta 
-  - 1.2.3. Simulación: Monte Carlo 
-- 1.3. Redes de neuronas 
-  - 1.3.1. Fundamentos biológicos 
-  - 1.3.2. Modelo computacional 
-  - 1.3.3. Redes de neuronas supervisadas y no supervisadas 
-  - 1.3.4. Perceptrón simple 
-  - 1.3.5. Perceptrón multicapa 
-- 1.4. Algoritmos genéticos 
-  - 1.4.1. Historia 
-  - 1.4.2. Base biológica 
-  - 1.4.3. Codificación de problemas 
-  - 1.4.4. Generación de la población inicial 
-  - 1.4.5. Algoritmo principal y operadores genéticos 
-  - 1.4.6. Evaluación de individuos: Fitness 
-- 1.5. Tesauros, vocabularios, taxonomías 
-  - 1.5.1. Vocabularios 
-  - 1.5.2. Taxonomías 
-  - 1.5.3. Tesauros 
-  - 1.5.4. Ontologías 
-  - 1.5.5. Representación del conocimiento: web semántica 
-- 1.6. Web semántica 
-  - 1.6.1. Especificaciones: RDF, RDFS y OWL 
-  - 1.6.2. Inferencia/razonamiento 
-  - 1.6.3. Linked Data 
-- 1.7. Sistemas expertos y DSS 
-  - 1.7.1. Sistemas expertos 
-  - 1.7.2. Sistemas de soporte a la decisión 
+  - 1.1.2. Referentes en el cine
+  - 1.1.3. Importancia de la inteligencia artificial
+  - 1.1.4. Tecnologías que habilitan y dan soporte a la inteligencia artificial
+- 1.2. La Inteligencia Artificial en juegos
+  - 1.2.1. Teoría de Juegos
+  - 1.2.2. Minimax y poda Alfa-Beta
+  - 1.2.3. Simulación: Monte Carlo
+- 1.3. Redes de neuronas
+  - 1.3.1. Fundamentos biológicos
+  - 1.3.2. Modelo computacional
+  - 1.3.3. Redes de neuronas supervisadas y no supervisadas
+  - 1.3.4. Perceptrón simple
+  - 1.3.5. Perceptrón multicapa
+- 1.4. Algoritmos genéticos
+  - 1.4.1. Historia
+  - 1.4.2. Base biológica
+  - 1.4.3. Codificación de problemas
+  - 1.4.4. Generación de la población inicial
+  - 1.4.5. Algoritmo principal y operadores genéticos
+  - 1.4.6. Evaluación de individuos: Fitness
+- 1.5. Tesauros, vocabularios, taxonomías
+  - 1.5.1. Vocabularios
+  - 1.5.2. Taxonomías
+  - 1.5.3. Tesauros
+  - 1.5.4. Ontologías
+  - 1.5.5. Representación del conocimiento: web semántica
+- 1.6. Web semántica
+  - 1.6.1. Especificaciones: RDF, RDFS y OWL
+  - 1.6.2. Inferencia/razonamiento
+  - 1.6.3. Linked Data
+- 1.7. Sistemas expertos y DSS
+  - 1.7.1. Sistemas expertos
+  - 1.7.2. Sistemas de soporte a la decisión
 - 1.8. Chatbots y Asistentes Virtuales
   - 1.8.1. Tipos de asistentes: asistentes por voz y por texto
-  - 1.8.2. Partes fundamentales para el desarrollo de un asistente: Intents, entidades y flujo de diálogo 
-  - 1.8.3. Integraciones: web, Slack, Whatsapp, Facebook 
+  - 1.8.2. Partes fundamentales para el desarrollo de un asistente: Intents, entidades y flujo de diálogo
+  - 1.8.3. Integraciones: web, Slack, Whatsapp, Facebook
   - 1.8.4. Herramientas de desarrollo de asistentes: Dialog Flow, Watson Assistant
-- 1.9. Estrategia de implantación de IA 
+- 1.9. Estrategia de implantación de IA
 - 1.10. Futuro de la inteligencia artificial
   - 1.10.1. Entendemos cómo detectar emociones mediante algoritmos
   - 1.10.2. Creación de una personalidad: lenguaje, expresiones y contenido
@@ -53,206 +54,192 @@ A repository to define the road to learn all about AI
 **Módulo 2. Tipos y Ciclo de Vida del Dato**
 
 - 2.1. La Estadística
+  - 2.1.1. Estadística: estadística descriptiva, estadística inferencias
+  - 2.1.2. Población, muestra, individuo
+  - 2.1.3. Variables: definición, escalas de medida
+- 2.2. Tipos de datos estadísticos
+  - 2.2.1. Según tipo
+    - 2.2.1.1. Cuantitativos: datos continuos y datos discretos
+    - 2.2.1.2. Cualitativos: datos binomiales, datos nominales y datos ordinales
+  - 2.2.2. Según su forma
+    - 2.2.2.1. Numérico
+    - 2.2.2.2. Texto
+    - 2.2.2.3. Lógico
+  - 2.2.3. Según su fuente
+    - 2.2.3.1. Primarios
+    - 2.2.3.2. Secundarios
+- 2.3. Ciclo de vida de los datos
+  - 2.3.1. Etapas del ciclo
+  - 2.3.2. Hitos del ciclo
+  - 2.3.3. Principios FAIR
+- 2.4. Etapas iniciales del ciclo
+  - 2.4.1. Definición de metas
+  - 2.4.2. Determinación de recursos necesarios
+  - 2.4.3. Diagrama de Gantt
+  - 2.4.4. Estructura de los datos
+- 2.5. Recolección de datos
+  - 2.5.1. Metodología de recolección
+  - 2.5.2. Herramientas de recolección
+  - 2.5.3. Canales de recolección
+- 2.6. Limpieza del dato
+  - 2.6.1. Fases de la limpieza de datos
+  - 2.6.2. Calidad del dato
+  - 2.6.3. Manipulación de datos (con R)
+- 2.7. Análisis de datos, interpretación y valoración de resultados
+  - 2.7.1. Medidas estadísticas
+  - 2.7.2. Índices de relación
+  - 2.7.3. Minería de datos
+- 2.8. Almacén del dato (Datawarehouse)
+  - 2.8.1. Elementos que lo integran
+  - 2.8.2. Diseño
+  - 2.8.3. Aspectos a considerar
+- 2.9. Disponibilidad del dato
+  - 2.9.1. Acceso
+  - 2.9.2. Utilidad
+  - 2.9.3. Seguridad
+- 2.10. Aspectos Normativos
+  - 2.10.1. Ley de protección de datos
+  - 2.10.2. Buenas prácticas
+  - 2.10.3. Otros aspectos normativos
 
-2.1.1. Estadística: estadística descriptiva, estadística inferencias
-2.1.2. Población, muestra, individuo
-2.1.3. Variables: definición, escalas de medida
+**Módulo 3. El dato en la Inteligencia Artificial**
 
-2.2. Tipos de datos estadísticos
+- 3.1. Ciencia de datos
+  - 3.1.1. La ciencia de datos
+  - 3.1.2. Herramientas avanzadas para el científico de datos
+- 3.2. Datos, información y conocimiento
+  - 3.2.1. Datos, información y conocimiento
+  - 3.2.2. Tipos de datos
+  - 3.2.3. Fuentes de datos
+- 3.3. De los datos a la información
+  - 3.3.1. Análisis de Datos
+  - 3.3.2. Tipos de análisis
+  - 3.3.3. Extracción de Información de un Dataset
+- 3.4. Extracción de información mediante visualización
+  - 3.4.1. La visualización como herramienta de análisis
+  - 3.4.2. Métodos de visualización
+  - 3.4.3. Visualización de un conjunto de datos
+- 3.5. Calidad de los datos
+  - 3.5.1. Datos de calidad
+  - 3.5.2. Limpieza de datos
+  - 3.5.3. Preprocesamiento básico de datos
+- 3.6. Dataset
+  - 3.6.1. Enriquecimiento del Dataset
+  - 3.6.2. La maldición de la dimensionalidad
+  - 3.6.3. Modificación de nuestro conjunto de datos
+- 3.7. Desbalanceo
+  - 3.7.1. Desbalanceo de clases
+  - 3.7.2. Técnicas de mitigación del desbalanceo
+  - 3.7.3. Balanceo de un Dataset
+- 3.8. Modelos no supervisados
+  - 3.8.1. Modelo no supervisado
+  - 3.8.2. Métodos
+  - 3.8.3. Clasificación con modelos no supervisados
+- 3.9. Modelos supervisados
+  - 3.9.1. Modelo supervisado
+  - 3.9.2. Métodos
+  - 3.9.3. Clasificación con modelos supervisados
+- 3.10. Herramientas y buenas prácticas
+  - 3.10.1. Buenas prácticas para un científico de datos
+  - 3.10.2. El mejor modelo
+  - 3.10.3. Herramientas útiles
 
-2.2.1. Según tipo
+**Módulo 4. Minería de Datos. Selección, preprocesamiento y transformación**
 
-2.2.1.1. Cuantitativos: datos continuos y datos discretos
-2.2.1.2. Cualitativos: datos binomiales, datos nominales y datos ordinales 
+- 4.1. La inferencia estadística
+  - 4.1.1. Estadística descriptiva vs. Inferencia estadística
+  - 4.1.2. Procedimientos paramétricos
+  - 4.1.3. Procedimientos no paramétricos
+- 4.2. Análisis exploratorio
+  - 4.2.1. Análisis descriptivo
+  - 4.2.2. Visualización
+  - 4.2.3. Preparación de datos
+- 4.3. Preparación de datos
+  - 4.3.1. Integración y limpieza de datos
+  - 4.3.2. Normalización de datos
+  - 4.3.3. Transformando atributos
+- 4.4. Los valores perdidos
+  - 4.4.1. Tratamiento de valores perdidos
+  - 4.4.2. Métodos de imputación de máxima verosimilitud
+  - 4.4.3. Imputación de valores perdidos usando aprendizaje automático
+- 4.5. El ruido en los datos
+  - 4.5.1. Clases de ruido y atributos
+  - 4.5.2. Filtrado de ruido
+  - 4.5.3. El efecto del ruido
+- 4.6. La maldición de la dimensionalidad
+  - 4.6.1. Oversampling
+  - 4.6.2. Undersampling
+  - 4.6.3. Reducción de datos multidimensionales
+- 4.7. De atributos continuos a discretos
+  - 4.7.1. Datos continuos versus discretos
+  - 4.7.2. Proceso de discretización
+- 4.8. Los datos
+  - 4.8.1. Selección de datos
+  - 4.8.2. Perspectivas y criterios de selección
+  - 4.8.3. Métodos de selección
+- 4.9. Selección de instancias
+  - 4.9.1. Métodos para la selección de instancias
+  - 4.9.2. Selección de prototipos
+  - 4.9.3. Métodos avanzados para la selección de instancias
+- 4.10. Preprocesamiento de datos en entornos Big Data
 
-2.2.2. Según su forma 
+**Módulo 5. Algoritmia y complejidad en Inteligencia Artificial**
 
-2.2.2.1. Numérico
-2.2.2.2. Texto 
-2.2.2.3. Lógico
-2.2.3. Según su fuente
+- 5.1. Introducción a las estrategias de diseño de algoritmos
+  - 5.1.1. Recursividad
+  - 5.1.2. Divide y conquista
+  - 5.1.3. Otras estrategias
+- 5.2. Eficiencia y análisis de los algoritmos
+  - 5.2.1. Medidas de eficiencia
+  - 5.2.2. Medir el tamaño de la entrada
+  - 5.2.3. Medir el tiempo de ejecución
+  - 5.2.4. Caso peor, mejor y medio
+  - 5.2.5. Notación asintónica
+  - 5.2.6. Criterios de Análisis matemático de algoritmos no recursivos
+  - 5.2.7. Análisis matemático de algoritmos recursivos
+  - 5.2.8. Análisis empírico de algoritmos
+- 5.3. Algoritmos de ordenación
+  - 5.3.1. Concepto de ordenación
+  - 5.3.2. Ordenación de la burbuja
+  - 5.3.3. Ordenación por selección
+  - 5.3.4. Ordenación por inserción
+  - 5.3.5. Ordenación por mezcla (Merge_Sort)
+  - 5.3.6. Ordenación rápida (Quick_Sort)
+- 5.4. Algoritmos con árboles
+  - 5.4.1. Concepto de árbol
+  - 5.4.2. Árboles binarios
+  - 5.4.3. Recorridos de árbol
+  - 5.4.4. Representar expresiones
+  - 5.4.5. Árboles binarios ordenados
+  - 5.4.6. Árboles binarios balanceados
+- 5.5. Algoritmos con Heaps
+  - 5.5.1. Los Heaps
+  - 5.5.2. El algoritmo Heapsort
+  - 5.5.3. Las colas de prioridad
+- 5.6. Algoritmos con grafos
+  - 5.6.1. Representación
+  - 5.6.2. Recorrido en anchura
+  - 5.6.3. Recorrido en profundidad
+  - 5.6.4. Ordenación topológica
+- 5.7. Algoritmos Greedy
+  - 5.7.1. La estrategia Greedy
+  - 5.7.2. Elementos de la estrategia Greedy
+  - 5.7.3. Cambio de monedas
+  - 5.7.4. Problema del viajante
+  - 5.7.5. Problema de la mochila
+- 5.8. Búsqueda de caminos mínimos
+  - 5.8.1. El problema del camino mínimo
+  - 5.8.2. Arcos negativos y ciclos
+  - 5.8.3. Algoritmo de Dijkstra
+- 5.9. Algoritmos Greedy sobre grafos
+  - 5.9.1. El árbol de recubrimiento mínimo
+  - 5.9.2. El algoritmo de Prim
+  - 5.9.3. El algoritmo de Kruskal
+  - 5.9.4. Análisis de complejidad
+- 5.10. Backtracking
+  - 5.10.1. El Backtracking
+  - 5.10.2. Técnicas alternativas
 
-2.2.3.1. Primarios
-2.2.3.2. Secundarios
-
-2.3. Ciclo de vida de los datos
-
-2.3.1. Etapas del ciclo
-2.3.2. Hitos del ciclo
-2.3.3. Principios FAIR
-
-2.4. Etapas iniciales del ciclo
-
-2.4.1. Definición de metas
-2.4.2. Determinación de recursos necesarios
-2.4.3. Diagrama de Gantt
-2.4.4. Estructura de los datos
-2.5. Recolección de datos
-
-2.5.1. Metodología de recolección
-2.5.2. Herramientas de recolección
-2.5.3. Canales de recolección
-
-2.6. Limpieza del dato
-
-2.6.1. Fases de la limpieza de datos
-2.6.2. Calidad del dato
-2.6.3. Manipulación de datos (con R)
-
-2.7. Análisis de datos, interpretación y valoración de resultados
-
-2.7.1. Medidas estadísticas
-2.7.2. Índices de relación
-2.7.3. Minería de datos
-2.8. Almacén del dato (Datawarehouse)
-
-2.8.1. Elementos que lo integran
-2.8.2. Diseño
-2.8.3. Aspectos a considerar
-
-2.9. Disponibilidad del dato
-
-2.9.1. Acceso
-2.9.2. Utilidad
-2.9.3. Seguridad
-
-2.10. Aspectos Normativos 
-
-2.10.1. Ley de protección de datos
-2.10.2. Buenas prácticas
-2.10.3. Otros aspectos normativos
-Módulo 3. El dato en la Inteligencia Artificial
-3.1. Ciencia de datos
-3.1.1. La ciencia de datos
-3.1.2. Herramientas avanzadas para el científico de datos
-3.2. Datos, información y conocimiento
-3.2.1. Datos, información y conocimiento
-3.2.2. Tipos de datos
-3.2.3. Fuentes de datos
-3.3. De los datos a la información
-3.3.1. Análisis de Datos
-3.3.2. Tipos de análisis
-3.3.3. Extracción de Información de un Dataset
-3.4. Extracción de información mediante visualización
-3.4.1. La visualización como herramienta de análisis
-3.4.2. Métodos de visualización
-3.4.3. Visualización de un conjunto de datos
-3.5. Calidad de los datos
-3.5.1. Datos de calidad
-3.5.2. Limpieza de datos
-3.5.3. Preprocesamiento básico de datos
-3.6. Dataset
-3.6.1. Enriquecimiento del Dataset
-3.6.2. La maldición de la dimensionalidad
-3.6.3. Modificación de nuestro conjunto de datos 
-3.7. Desbalanceo
-3.7.1. Desbalanceo de clases
-3.7.2. Técnicas de mitigación del desbalanceo
-3.7.3. Balanceo de un Dataset
-3.8. Modelos no supervisados
-3.8.1. Modelo no supervisado
-3.8.2. Métodos
-3.8.3. Clasificación con modelos no supervisados
-3.9. Modelos supervisados
-3.9.1. Modelo supervisado
-3.9.2. Métodos
-3.9.3. Clasificación con modelos supervisados
-3.10. Herramientas y buenas prácticas
-3.10.1. Buenas prácticas para un científico de datos
-3.10.2. El mejor modelo
-3.10.3. Herramientas útiles 
-Módulo 4. Minería de Datos. Selección, preprocesamiento y transformación
-4.1. La inferencia estadística
-4.1.1. Estadística descriptiva vs. Inferencia estadística
-4.1.2. Procedimientos paramétricos
-4.1.3. Procedimientos no paramétricos
-4.2. Análisis exploratorio
-4.2.1. Análisis descriptivo
-4.2.2. Visualización
-4.2.3. Preparación de datos
-4.3. Preparación de datos
-4.3.1. Integración y limpieza de datos
-4.3.2. Normalización de datos
-4.3.3. Transformando atributos
-4.4. Los valores perdidos
-4.4.1. Tratamiento de valores perdidos
-4.4.2. Métodos de imputación de máxima verosimilitud
-4.4.3. Imputación de valores perdidos usando aprendizaje automático
-4.5. El ruido en los datos
-4.5.1. Clases de ruido y atributos
-4.5.2. Filtrado de ruido
-4.5.3. El efecto del ruido
-4.6. La maldición de la dimensionalidad
-4.6.1. Oversampling
-4.6.2. Undersampling
-4.6.3. Reducción de datos multidimensionales
-4.7. De atributos continuos a discretos
-4.7.1. Datos continuos versus discretos
-4.7.2. Proceso de discretización
-4.8. Los datos
-4.8.1. Selección de datos
-4.8.2. Perspectivas y criterios de selección
-4.8.3. Métodos de selección
-4.9. Selección de instancias
-4.9.1. Métodos para la selección de instancias
-4.9.2. Selección de prototipos
-4.9.3. Métodos avanzados para la selección de instancias
-4.10. Preprocesamiento de datos en entornos Big Data 
-Módulo 5. Algoritmia y complejidad en Inteligencia Artificial
-5.1. Introducción a las estrategias de diseño de algoritmos
-5.1.1. Recursividad
-5.1.2. Divide y conquista
-5.1.3. Otras estrategias
-5.2. Eficiencia y análisis de los algoritmos
-5.2.1. Medidas de eficiencia
-5.2.2. Medir el tamaño de la entrada
-5.2.3. Medir el tiempo de ejecución
-5.2.4. Caso peor, mejor y medio
-5.2.5. Notación asintónica
-5.2.6. Criterios de Análisis matemático de algoritmos no recursivos
-5.2.7. Análisis matemático de algoritmos recursivos
-5.2.8. Análisis empírico de algoritmos
-5.3. Algoritmos de ordenación
-5.3.1. Concepto de ordenación
-5.3.2. Ordenación de la burbuja
-5.3.3. Ordenación por selección
-5.3.4. Ordenación por inserción
-5.3.5. Ordenación por mezcla (Merge_Sort)
-5.3.6. Ordenación rápida (Quick_Sort)
-5.4. Algoritmos con árboles
-5.4.1. Concepto de árbol
-5.4.2. Árboles binarios
-5.4.3. Recorridos de árbol
-5.4.4. Representar expresiones
-5.4.5. Árboles binarios ordenados
-5.4.6. Árboles binarios balanceados
-5.5. Algoritmos con Heaps
-5.5.1. Los Heaps
-5.5.2. El algoritmo Heapsort
-5.5.3. Las colas de prioridad
-5.6. Algoritmos con grafos
-5.6.1. Representación
-5.6.2. Recorrido en anchura
-5.6.3. Recorrido en profundidad
-5.6.4. Ordenación topológica 
-5.7. Algoritmos Greedy
-5.7.1. La estrategia Greedy
-5.7.2. Elementos de la estrategia Greedy
-5.7.3. Cambio de monedas
-5.7.4. Problema del viajante
-5.7.5. Problema de la mochila 
-5.8. Búsqueda de caminos mínimos
-5.8.1. El problema del camino mínimo
-5.8.2. Arcos negativos y ciclos
-5.8.3. Algoritmo de Dijkstra
-5.9. Algoritmos Greedy sobre grafos
-5.9.1. El árbol de recubrimiento mínimo
-5.9.2. El algoritmo de Prim
-5.9.3. El algoritmo de Kruskal
-5.9.4. Análisis de complejidad
-5.10. Backtracking
-5.10.1. El Backtracking
-5.10.2. Técnicas alternativas
 Módulo 6. Sistemas inteligentes
 6.1. Teoría de agentes
 6.1.1. Historia del concepto
@@ -330,7 +317,7 @@ de aprendizaje automático
 7.2.4. Transformaciones de datos
 7.2.5. Visualización y exploración de variables continuas
 7.2.6. Visualización y exploración de variables categóricas
-7.2.7. Medidas de correlación 
+7.2.7. Medidas de correlación
 7.2.8. Representaciones gráficas más habituales
 7.2.9. Introducción al análisis multivariante y a la reducción de dimensiones
 7.3. Árboles de decisión
@@ -416,7 +403,7 @@ Módulo 8. Las redes neuronales, base de Deep Learning
 8.10. Hiperparámetros de Fine tuning de Redes Neuronales
 8.10.1. Selección de la función de activación
 8.10.2. Establecer el Learning rate
-8.10.3. Ajuste de los pesos 
+8.10.3. Ajuste de los pesos
 Módulo 9. Entrenamiento de redes neuronales profundas
 9.1. Problemas de Gradientes
 9.1.1. Técnicas de optimización de gradiente
@@ -425,7 +412,7 @@ Módulo 9. Entrenamiento de redes neuronales profundas
 9.2. Reutilización de capas preentrenadas
 9.2.1. Entrenamiento de transferencia de aprendizaje
 9.2.2. Extracción de características
-9.2.3. Aprendizaje profundo 
+9.2.3. Aprendizaje profundo
 9.3. Optimizadores
 9.3.1. Optimizadores de descenso de gradiente estocástico
 9.3.2. Optimizadores Adam y RMSprop
@@ -449,7 +436,7 @@ Módulo 9. Entrenamiento de redes neuronales profundas
 9.8. Data Augmentation
 9.8.1. Transformaciones de imagen
 9.8.2. Generación de datos sintéticos
-9.8.3. Transformación de texto 
+9.8.3. Transformación de texto
 9.9. Aplicación Práctica de Transfer Learning
 9.9.1. Entrenamiento de transferencia de aprendizaje
 9.9.2. Extracción de características
@@ -583,7 +570,7 @@ Recurrentes (RNN) y Atención
 12.10.1. Desarrollo de una aplicación de procesamiento de lenguaje natural con RNN
 y atención
 12.10.2. Uso de RNN, mecanismos de atención y modelos Transformers en la aplicación
-12.10.3. Evaluación de la aplicación práctica 
+12.10.3. Evaluación de la aplicación práctica
 Módulo 13. Autoencoders, GANs, y Modelos de Difusión
 13.1. Representaciones de datos eficientes
 13.1.1. Reducción de dimensionalidad
